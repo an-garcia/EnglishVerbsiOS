@@ -936,291 +936,291 @@
 			<key>id</key>
 			<integer>16</integer>
 			<key>in</key>
-			<string></string>
+			<string>find</string>
 			<key>sp</key>
-			<string></string>
+			<string>found</string>
 			<key>pp</key>
-			<string></string>
+			<string>found</string>
 			<key>prp</key>
-			<string></string>
+			<string>finding</string>
 			<key>phin</key>
-			<string></string>
+			<string>/faɪnd/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/faʊnd/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/faʊnd/</string>
 			<key>s1</key>
-			<string></string>
+			<string>Water finds its own level.</string>
 			<key>s2</key>
-			<string></string>
+			<string>Vitamin B12 is found in dairy products.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Uncle Henry says &quot;Eureka&quot; means &quot;I have found it.&quot;</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>discover or perceive by chance or unexpectedly; recognize or discover (something) to be present</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>encontrar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>trouver, découvrir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>encontrar</string>
 			<key>trge</key>
-			<string></string>
+			<string>finden</string>
 			<key>trru</key>
-			<string></string>
+			<string>находить</string>
 			<key>trsw</key>
-			<string></string>
+			<string>hitta</string>
 			<key>trit</key>
-			<string></string>
+			<string>trovare</string>
 			<key>trin</key>
-			<string></string>
+			<string>menemukan</string>
 			<key>trch</key>
-			<string></string>
+			<string>搜寻</string>
 			<key>trjp</key>
-			<string></string>
+			<string>見つける、みつける</string>
 			<key>trko</key>
-			<string></string>
+			<string>알아낼 수 있다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>ontdekken</string>
 			<key>trno</key>
-			<string></string>
+			<string>befinne, finna, finne, kjenne</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>17</integer>
 			<key>in</key>
-			<string></string>
+			<string>tell</string>
 			<key>sp</key>
-			<string></string>
+			<string>told</string>
 			<key>pp</key>
-			<string></string>
+			<string>told</string>
 			<key>prp</key>
-			<string></string>
+			<string>telling</string>
 			<key>phin</key>
-			<string></string>
+			<string>/tel/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/tould/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/tould/</string>
 			<key>s1</key>
-			<string></string>
+			<string>Boys, what did I tell you?</string>
 			<key>s2</key>
-			<string></string>
+			<string>The doctor hasn&apos;t told us yet.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Men have told me that there is no riddle so cunning that you can not solve it.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>communicate information, facts, or news to someone in spoken or written words</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>decir</string>
 			<key>trfr</key>
-			<string></string>
+			<string>dire</string>
 			<key>trpt</key>
-			<string></string>
+			<string>dizer</string>
 			<key>trge</key>
-			<string></string>
+			<string>sagen</string>
 			<key>trru</key>
-			<string></string>
+			<string>рассказать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>berätta</string>
 			<key>trit</key>
-			<string></string>
+			<string>raccontare</string>
 			<key>trin</key>
-			<string></string>
+			<string>menceritakan</string>
 			<key>trch</key>
-			<string></string>
+			<string>告诉</string>
 			<key>trjp</key>
-			<string></string>
+			<string>伝える</string>
 			<key>trko</key>
-			<string></string>
+			<string>말하다, 고하다, 투표를 세다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>vertellen</string>
 			<key>trno</key>
-			<string></string>
+			<string>fortelja</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>18</integer>
 			<key>in</key>
-			<string></string>
+			<string>ask</string>
 			<key>sp</key>
-			<string></string>
+			<string>asked</string>
 			<key>pp</key>
-			<string></string>
+			<string>asked</string>
 			<key>prp</key>
-			<string></string>
+			<string>asking</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;ɑ:sk/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;ɑ:skt/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;ɑ:skt/</string>
 			<key>s1</key>
-			<string></string>
+			<string>Oh, I was going to ask you.</string>
 			<key>s2</key>
-			<string></string>
+			<string>&quot;Where&apos;s my milk?&quot; asked the kitten, looking up into Dorothy&apos;s face.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Two months is all Kris asks, and I&apos;m free.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>say something in order to obtain an answer or some information; request (someone) to do or give something</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>preguntar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>demander</string>
 			<key>trpt</key>
-			<string></string>
+			<string>pedir</string>
 			<key>trge</key>
-			<string></string>
+			<string>fragen</string>
 			<key>trru</key>
-			<string></string>
+			<string>просить</string>
 			<key>trsw</key>
-			<string></string>
+			<string>fråga</string>
 			<key>trit</key>
-			<string></string>
+			<string>chiedere</string>
 			<key>trin</key>
-			<string></string>
+			<string>meminta</string>
 			<key>trch</key>
-			<string></string>
+			<string>问</string>
 			<key>trjp</key>
-			<string></string>
+			<string>尋ねる</string>
 			<key>trko</key>
-			<string></string>
+			<string>질문하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>vragen, verzoeken</string>
 			<key>trno</key>
-			<string></string>
+			<string>bede, forespørre, spørja, spørre</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>19</integer>
 			<key>in</key>
-			<string></string>
+			<string>work</string>
 			<key>sp</key>
-			<string></string>
+			<string>worked</string>
 			<key>pp</key>
-			<string></string>
+			<string>worked</string>
 			<key>prp</key>
-			<string></string>
+			<string>working</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;wɜ:k/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;wɜ:kt/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;wɜ:kt/</string>
 			<key>s1</key>
-			<string></string>
+			<string>He said it would work for a girl or a boy.</string>
 			<key>s2</key>
-			<string></string>
+			<string>A coloring book and crayons kept her busy while they worked and talked.</string>
 			<key>s3</key>
-			<string></string>
+			<string>We had worked hard on a presentation to a potential customer.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>be engaged in physical or mental activity in order to achieve a purpose or result, especially in one&apos;s job; do work</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>trabajar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>travailler</string>
 			<key>trpt</key>
-			<string></string>
+			<string>trabalhar</string>
 			<key>trge</key>
-			<string></string>
+			<string>arbeiten</string>
 			<key>trru</key>
-			<string></string>
+			<string>работать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>arbeta</string>
 			<key>trit</key>
-			<string></string>
+			<string>lavorare</string>
 			<key>trin</key>
-			<string></string>
+			<string>bekerja</string>
 			<key>trch</key>
-			<string></string>
+			<string>工作</string>
 			<key>trjp</key>
-			<string></string>
+			<string>働く、はたらく</string>
 			<key>trko</key>
-			<string></string>
+			<string>근무하다, 일하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>werken</string>
 			<key>trno</key>
-			<string></string>
+			<string>arbeide, arbeidsbok, jobbe</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>20</integer>
 			<key>in</key>
-			<string></string>
+			<string>seem</string>
 			<key>sp</key>
-			<string></string>
+			<string>seemed</string>
 			<key>pp</key>
-			<string></string>
+			<string>seemed</string>
 			<key>prp</key>
-			<string></string>
+			<string>seeming</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;si:m/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;si:md/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;si:md/</string>
 			<key>s1</key>
-			<string></string>
+			<string>It didn&apos;t seem like Christmas.</string>
 			<key>s2</key>
-			<string></string>
+			<string>Dawn seemed annoyed.</string>
 			<key>s3</key>
-			<string></string>
+			<string>For a long time it had seemed to me that life was about to begin.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>give the impression or sensation of being something or having a particular quality</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>parecer</string>
 			<key>trfr</key>
-			<string></string>
+			<string>sembler</string>
 			<key>trpt</key>
-			<string></string>
+			<string>parecer</string>
 			<key>trge</key>
-			<string></string>
+			<string>scheinen</string>
 			<key>trru</key>
-			<string></string>
+			<string>казаться</string>
 			<key>trsw</key>
-			<string></string>
+			<string>verka</string>
 			<key>trit</key>
-			<string></string>
+			<string>sembrare</string>
 			<key>trin</key>
-			<string></string>
+			<string>kelihatan</string>
 			<key>trch</key>
-			<string></string>
+			<string>似乎</string>
 			<key>trjp</key>
-			<string></string>
+			<string>見える</string>
 			<key>trko</key>
-			<string></string>
+			<string>보다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>lijken</string>
 			<key>trno</key>
-			<string></string>
+			<string>virke</string>
 		</dict>
 		<dict>
 			<key>id</key>
