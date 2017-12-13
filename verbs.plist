@@ -646,291 +646,291 @@
 			<key>id</key>
 			<integer>11</integer>
 			<key>in</key>
-			<string></string>
+			<string>think</string>
 			<key>sp</key>
-			<string></string>
+			<string>thought</string>
 			<key>pp</key>
-			<string></string>
+			<string>thought</string>
 			<key>prp</key>
-			<string></string>
+			<string>thinking</string>
 			<key>phin</key>
-			<string></string>
+			<string>/θɪŋk/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/θɔ:t/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/θɔ:t/</string>
 			<key>s1</key>
-			<string></string>
+			<string>He could not think of anything else.</string>
 			<key>s2</key>
-			<string></string>
+			<string>She thought that nothing would be the same again.</string>
 			<key>s3</key>
-			<string></string>
+			<string>I never thought I could do it.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>have a particular opinion, belief, or idea about someone or something; direct one&apos;s mind toward someone or something; use one&apos;s mind actively to form connected ideas.</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>pensar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>penser</string>
 			<key>trpt</key>
-			<string></string>
+			<string>pensar</string>
 			<key>trge</key>
-			<string></string>
+			<string>denken</string>
 			<key>trru</key>
-			<string></string>
+			<string>думать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>tänka</string>
 			<key>trit</key>
-			<string></string>
+			<string>pensare</string>
 			<key>trin</key>
-			<string></string>
+			<string>berpikir</string>
 			<key>trch</key>
-			<string></string>
+			<string>认为</string>
 			<key>trjp</key>
-			<string></string>
+			<string>考える、思う</string>
 			<key>trko</key>
-			<string></string>
+			<string>생각하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>denken</string>
 			<key>trno</key>
-			<string></string>
+			<string>synes</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>12</integer>
 			<key>in</key>
-			<string></string>
+			<string>look</string>
 			<key>sp</key>
-			<string></string>
+			<string>looked</string>
 			<key>pp</key>
-			<string></string>
+			<string>looked</string>
 			<key>prp</key>
-			<string></string>
+			<string>looking</string>
 			<key>phin</key>
-			<string></string>
+			<string>/lʊk/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;lʊkt/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;lʊkt/</string>
 			<key>s1</key>
-			<string></string>
+			<string>Do I look that bad?</string>
 			<key>s2</key>
-			<string></string>
+			<string>The boy looked around him with wondering eyes.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Oh, I wish I had looked after my teeth.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>direct one&apos;s gaze toward someone or something or in a specified direction</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>mirar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>regarder</string>
 			<key>trpt</key>
-			<string></string>
+			<string>olhar</string>
 			<key>trge</key>
-			<string></string>
+			<string>aussehen</string>
 			<key>trru</key>
-			<string></string>
+			<string>смотреть</string>
 			<key>trsw</key>
-			<string></string>
+			<string>titta</string>
 			<key>trit</key>
-			<string></string>
+			<string>guardare</string>
 			<key>trin</key>
-			<string></string>
+			<string>melihat</string>
 			<key>trch</key>
-			<string></string>
+			<string>看</string>
 			<key>trjp</key>
-			<string></string>
+			<string>見る、みる</string>
 			<key>trko</key>
-			<string></string>
+			<string>보다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>kijken</string>
 			<key>trno</key>
-			<string></string>
+			<string>se</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>13</integer>
 			<key>in</key>
-			<string></string>
+			<string>want</string>
 			<key>sp</key>
-			<string></string>
+			<string>wanted</string>
 			<key>pp</key>
-			<string></string>
+			<string>wanted</string>
 			<key>prp</key>
-			<string></string>
+			<string>wanting</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;wɒnt/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;wɒntɪd/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;wɒntɪd/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I don&apos;t want this night to end.</string>
 			<key>s2</key>
-			<string></string>
+			<string>He wanted the wisdom of the gods.</string>
 			<key>s3</key>
-			<string></string>
+			<string>You shall want for nothing while you are with me.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>have a desire to possess or do (something); wish for; lack or be short of something desirable or essential</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>querer</string>
 			<key>trfr</key>
-			<string></string>
+			<string>vouloir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>querer</string>
 			<key>trge</key>
-			<string></string>
+			<string>wollen</string>
 			<key>trru</key>
-			<string></string>
+			<string>хотеть</string>
 			<key>trsw</key>
-			<string></string>
+			<string>vilja</string>
 			<key>trit</key>
-			<string></string>
+			<string>volere</string>
 			<key>trin</key>
-			<string></string>
+			<string>ingin</string>
 			<key>trch</key>
-			<string></string>
+			<string>要</string>
 			<key>trjp</key>
-			<string></string>
+			<string>欲しがる、ほしがる</string>
 			<key>trko</key>
-			<string></string>
+			<string>원하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>willen</string>
 			<key>trno</key>
-			<string></string>
+			<string>ville ha</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>14</integer>
 			<key>in</key>
-			<string></string>
+			<string>give</string>
 			<key>sp</key>
-			<string></string>
+			<string>gave</string>
 			<key>pp</key>
-			<string></string>
+			<string>given</string>
 			<key>prp</key>
-			<string></string>
+			<string>giving</string>
 			<key>phin</key>
-			<string></string>
+			<string>/gɪv/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/geɪv/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;gɪvən/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I&apos;m too close to my goal to give up now.</string>
 			<key>s2</key>
-			<string></string>
+			<string>They gave her water to drink.</string>
 			<key>s3</key>
-			<string></string>
+			<string>She hadn&apos;t been given that much consideration.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>freely transfer the possession of (something) to (someone); hand over to</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>dar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>donner</string>
 			<key>trpt</key>
-			<string></string>
+			<string>dar</string>
 			<key>trge</key>
-			<string></string>
+			<string>geben</string>
 			<key>trru</key>
-			<string></string>
+			<string>давать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>ge</string>
 			<key>trit</key>
-			<string></string>
+			<string>dare</string>
 			<key>trin</key>
-			<string></string>
+			<string>memberikan</string>
 			<key>trch</key>
-			<string></string>
+			<string>给</string>
 			<key>trjp</key>
-			<string></string>
+			<string>与える</string>
 			<key>trko</key>
-			<string></string>
+			<string>주다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>geven</string>
 			<key>trno</key>
-			<string></string>
+			<string>gi</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>15</integer>
 			<key>in</key>
-			<string></string>
+			<string>use</string>
 			<key>sp</key>
-			<string></string>
+			<string>used</string>
 			<key>pp</key>
-			<string></string>
+			<string>used</string>
 			<key>prp</key>
-			<string></string>
+			<string>using</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;ju:z/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;ju:zd/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;ju:zd/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I figured you could use the rest.</string>
 			<key>s2</key>
-			<string></string>
+			<string>She used the remote to shut the television off.</string>
 			<key>s3</key>
-			<string></string>
+			<string>You&apos;ll get used to it.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result; employ</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>utilizar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>utiliser</string>
 			<key>trpt</key>
-			<string></string>
+			<string>usar</string>
 			<key>trge</key>
-			<string></string>
+			<string>benutzen</string>
 			<key>trru</key>
-			<string></string>
+			<string>использовать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>använda</string>
 			<key>trit</key>
-			<string></string>
+			<string>utilizzare</string>
 			<key>trin</key>
-			<string></string>
+			<string>menggunakan</string>
 			<key>trch</key>
-			<string></string>
+			<string>使用</string>
 			<key>trjp</key>
-			<string></string>
+			<string>用いる</string>
 			<key>trko</key>
-			<string></string>
+			<string>사용하다, 활용하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>gebruiken</string>
 			<key>trno</key>
-			<string></string>
+			<string>bruke</string>
 		</dict>
 		<dict>
 			<key>id</key>
