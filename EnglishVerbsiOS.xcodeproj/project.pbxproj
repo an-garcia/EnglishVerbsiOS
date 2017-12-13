@@ -16,6 +16,8 @@
 		828C34221FE14A660049CC2E /* EnglishVerbsiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34211FE14A660049CC2E /* EnglishVerbsiOSTests.swift */; };
 		828C342D1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C342C1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift */; };
 		828C343C1FE153790049CC2E /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 828C343B1FE153790049CC2E /* verbs.plist */; };
+		828C343F1FE16A8D0049CC2E /* Verb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C343E1FE16A8D0049CC2E /* Verb.swift */; };
+		828C34411FE172180049CC2E /* VerbData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34401FE172180049CC2E /* VerbData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		828C342C1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishVerbsiOSUITests.swift; sourceTree = "<group>"; };
 		828C342E1FE14A660049CC2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		828C343B1FE153790049CC2E /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
+		828C343E1FE16A8D0049CC2E /* Verb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verb.swift; sourceTree = "<group>"; };
+		828C34401FE172180049CC2E /* VerbData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +86,6 @@
 			isa = PBXGroup;
 			children = (
 				828C34081FE14A650049CC2E /* EnglishVerbsiOS */,
-				828C343A1FE152F50049CC2E /* Supporting Files */,
 				828C34201FE14A660049CC2E /* EnglishVerbsiOSTests */,
 				828C342B1FE14A660049CC2E /* EnglishVerbsiOSUITests */,
 				828C34071FE14A650049CC2E /* Products */,
@@ -102,12 +105,14 @@
 		828C34081FE14A650049CC2E /* EnglishVerbsiOS */ = {
 			isa = PBXGroup;
 			children = (
+				828C343D1FE16A660049CC2E /* Model */,
 				828C34091FE14A650049CC2E /* AppDelegate.swift */,
 				828C340B1FE14A650049CC2E /* ViewController.swift */,
 				828C340D1FE14A650049CC2E /* Main.storyboard */,
 				828C34131FE14A650049CC2E /* Assets.xcassets */,
 				828C34151FE14A650049CC2E /* LaunchScreen.storyboard */,
 				828C34181FE14A650049CC2E /* Info.plist */,
+				828C343A1FE152F50049CC2E /* Supporting Files */,
 				828C34101FE14A650049CC2E /* EnglishVerbsiOS.xcdatamodeld */,
 			);
 			path = EnglishVerbsiOS;
@@ -137,6 +142,16 @@
 				828C343B1FE153790049CC2E /* verbs.plist */,
 			);
 			name = "Supporting Files";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		828C343D1FE16A660049CC2E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				828C343E1FE16A8D0049CC2E /* Verb.swift */,
+				828C34401FE172180049CC2E /* VerbData.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -274,8 +289,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				828C343F1FE16A8D0049CC2E /* Verb.swift in Sources */,
 				828C340C1FE14A650049CC2E /* ViewController.swift in Sources */,
 				828C340A1FE14A650049CC2E /* AppDelegate.swift in Sources */,
+				828C34411FE172180049CC2E /* VerbData.swift in Sources */,
 				828C34121FE14A650049CC2E /* EnglishVerbsiOS.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
