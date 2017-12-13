@@ -15,6 +15,7 @@
 		828C34171FE14A650049CC2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 828C34151FE14A650049CC2E /* LaunchScreen.storyboard */; };
 		828C34221FE14A660049CC2E /* EnglishVerbsiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34211FE14A660049CC2E /* EnglishVerbsiOSTests.swift */; };
 		828C342D1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C342C1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift */; };
+		828C343C1FE153790049CC2E /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 828C343B1FE153790049CC2E /* verbs.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		828C34281FE14A660049CC2E /* EnglishVerbsiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnglishVerbsiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		828C342C1FE14A660049CC2E /* EnglishVerbsiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishVerbsiOSUITests.swift; sourceTree = "<group>"; };
 		828C342E1FE14A660049CC2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		828C343B1FE153790049CC2E /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				828C34081FE14A650049CC2E /* EnglishVerbsiOS */,
+				828C343A1FE152F50049CC2E /* Supporting Files */,
 				828C34201FE14A660049CC2E /* EnglishVerbsiOSTests */,
 				828C342B1FE14A660049CC2E /* EnglishVerbsiOSUITests */,
 				828C34071FE14A650049CC2E /* Products */,
@@ -126,6 +129,14 @@
 				828C342E1FE14A660049CC2E /* Info.plist */,
 			);
 			path = EnglishVerbsiOSUITests;
+			sourceTree = "<group>";
+		};
+		828C343A1FE152F50049CC2E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				828C343B1FE153790049CC2E /* verbs.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,6 +249,7 @@
 				828C34171FE14A650049CC2E /* LaunchScreen.storyboard in Resources */,
 				828C34141FE14A650049CC2E /* Assets.xcassets in Resources */,
 				828C340F1FE14A650049CC2E /* Main.storyboard in Resources */,
+				828C343C1FE153790049CC2E /* verbs.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
