@@ -1226,349 +1226,349 @@
 			<key>id</key>
 			<integer>21</integer>
 			<key>in</key>
-			<string></string>
+			<string>feel</string>
 			<key>sp</key>
-			<string></string>
+			<string>felt</string>
 			<key>pp</key>
-			<string></string>
+			<string>felt</string>
 			<key>prp</key>
-			<string></string>
+			<string>feeling</string>
 			<key>phin</key>
-			<string></string>
+			<string>/fi:l/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/felt/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/felt/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I feel much better now.</string>
 			<key>s2</key>
-			<string></string>
+			<string>We felt a sense of excitement.</string>
 			<key>s3</key>
-			<string></string>
+			<string>It had felt very poorly for ages before he decided to try that new medicine.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>be aware of (a person or object) through touching or being touched; experience (an emotion or sensation)</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>sentir</string>
 			<key>trfr</key>
-			<string></string>
+			<string>ressentir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>sentir</string>
 			<key>trge</key>
-			<string></string>
+			<string>fühlen</string>
 			<key>trru</key>
-			<string></string>
+			<string>чувствовать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>känna</string>
 			<key>trit</key>
-			<string></string>
+			<string>sentire</string>
 			<key>trin</key>
-			<string></string>
+			<string>merasa</string>
 			<key>trch</key>
-			<string></string>
+			<string>感觉</string>
 			<key>trjp</key>
-			<string></string>
+			<string>感じる</string>
 			<key>trko</key>
-			<string></string>
+			<string>느끼다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>voelen</string>
 			<key>trno</key>
-			<string></string>
+			<string>føle, kjenna</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>22</integer>
 			<key>in</key>
-			<string></string>
+			<string>try</string>
 			<key>sp</key>
-			<string></string>
+			<string>tried</string>
 			<key>pp</key>
-			<string></string>
+			<string>tried</string>
 			<key>prp</key>
-			<string></string>
+			<string>trying</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;traɪ/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;traɪd/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;traɪd/</string>
 			<key>s1</key>
-			<string></string>
+			<string>Try to stay out of the woods.</string>
 			<key>s2</key>
-			<string></string>
+			<string>He tried to regain his breath.</string>
 			<key>s3</key>
-			<string></string>
+			<string>She said you tried to call her.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>make an attempt or effort to do something</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>intentar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>essayer</string>
 			<key>trpt</key>
-			<string></string>
+			<string>tentar</string>
 			<key>trge</key>
-			<string></string>
+			<string>versuchen</string>
 			<key>trru</key>
-			<string></string>
+			<string>пытаться</string>
 			<key>trsw</key>
-			<string></string>
+			<string>prova</string>
 			<key>trit</key>
-			<string></string>
+			<string>provare</string>
 			<key>trin</key>
-			<string></string>
+			<string>mencoba</string>
 			<key>trch</key>
-			<string></string>
+			<string>尝试</string>
 			<key>trjp</key>
-			<string></string>
+			<string>試みる、試す</string>
 			<key>trko</key>
-			<string></string>
+			<string>써 보다, 먹어 보다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>proberen, uitproberen</string>
 			<key>trno</key>
-			<string></string>
+			<string>prove, prøve</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>23</integer>
 			<key>in</key>
-			<string></string>
+			<string>leave</string>
 			<key>sp</key>
-			<string></string>
+			<string>left</string>
 			<key>pp</key>
-			<string></string>
+			<string>left</string>
 			<key>prp</key>
-			<string></string>
+			<string>leaving</string>
 			<key>phin</key>
-			<string></string>
+			<string>/li:v/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/left/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/left/</string>
 			<key>s1</key>
-			<string></string>
+			<string>So the prisoners resolved to leave their prison at once.</string>
 			<key>s2</key>
-			<string></string>
+			<string>She left New York on June 6.</string>
 			<key>s3</key>
-			<string></string>
+			<string>All the sun&apos;s warmth left the air.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>go away from</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>salir, dejar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>laisser</string>
 			<key>trpt</key>
-			<string></string>
+			<string>sair</string>
 			<key>trge</key>
-			<string></string>
+			<string>verlassen</string>
 			<key>trru</key>
-			<string></string>
+			<string>оставлять</string>
 			<key>trsw</key>
-			<string></string>
+			<string>lämna</string>
 			<key>trit</key>
-			<string></string>
+			<string>partire</string>
 			<key>trin</key>
-			<string></string>
+			<string>meninggalkan</string>
 			<key>trch</key>
-			<string></string>
+			<string>离开</string>
 			<key>trjp</key>
-			<string></string>
+			<string>残す</string>
 			<key>trko</key>
-			<string></string>
+			<string>떠나다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>verlaten</string>
 			<key>trno</key>
-			<string></string>
+			<string>etterlate, forlate</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>24</integer>
 			<key>in</key>
-			<string></string>
+			<string>call</string>
 			<key>sp</key>
-			<string></string>
+			<string>called</string>
 			<key>pp</key>
-			<string></string>
+			<string>called</string>
 			<key>prp</key>
-			<string></string>
+			<string>calling</string>
 			<key>phin</key>
-			<string></string>
+			<string>/&apos;kɔ:l/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/&apos;kɔ:ld/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;kɔ:ld/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I suppose you could call it that.</string>
 			<key>s2</key>
-			<string></string>
+			<string>The doctor called today.</string>
 			<key>s3</key>
-			<string></string>
+			<string>I wish you had called me.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>de</key>
-			<string></string>
+			<string>cry out to (someone) in order to summon them or attract their attention</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>llamar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>appeler</string>
 			<key>trpt</key>
-			<string></string>
+			<string>chamar</string>
 			<key>trge</key>
-			<string></string>
+			<string>rufen</string>
 			<key>trru</key>
-			<string></string>
+			<string>называть</string>
 			<key>trsw</key>
-			<string></string>
+			<string>ringa</string>
 			<key>trit</key>
-			<string></string>
+			<string>chiamare</string>
 			<key>trin</key>
-			<string></string>
+			<string>memanggil</string>
 			<key>trch</key>
-			<string></string>
+			<string>呼叫</string>
 			<key>trjp</key>
-			<string></string>
+			<string>呼び出す</string>
 			<key>trko</key>
-			<string></string>
+			<string>전화하다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>noemen</string>
 			<key>trno</key>
-			<string></string>
+			<string>kalla, kalle, tilkalle</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>25</integer>
 			<key>in</key>
-			<string></string>
+			<string>become</string>
 			<key>sp</key>
-			<string></string>
+			<string>became</string>
 			<key>pp</key>
-			<string></string>
+			<string>become</string>
 			<key>prp</key>
-			<string></string>
+			<string>becoming</string>
 			<key>phin</key>
-			<string></string>
+			<string>/bɪ &apos;kʌm/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/bɪ &apos;keɪm/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/bɪ &apos;kʌm/</string>
 			<key>s1</key>
-			<string></string>
+			<string>It seems like you&apos;ve become the resident veterinarian.</string>
 			<key>s2</key>
-			<string></string>
+			<string>Henry became king of England.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Read in order to become wise.</string>
 			<key>co</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>begin to be; (of clothing) look good on or suit (someone)</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>volverse</string>
 			<key>trfr</key>
-			<string></string>
+			<string>devenir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>começar a ser</string>
 			<key>trge</key>
-			<string></string>
+			<string>werden</string>
 			<key>trru</key>
-			<string></string>
+			<string>стали</string>
 			<key>trsw</key>
-			<string></string>
+			<string>bli</string>
 			<key>trit</key>
-			<string></string>
+			<string>divenire</string>
 			<key>trin</key>
-			<string></string>
+			<string>menjadi</string>
 			<key>trch</key>
-			<string></string>
+			<string>成为</string>
 			<key>trjp</key>
-			<string></string>
+			<string>なる</string>
 			<key>trko</key>
-			<string></string>
+			<string>지다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>worden, goed staan</string>
 			<key>trno</key>
-			<string></string>
+			<string>bli, verta, verte</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>26</integer>
 			<key>in</key>
-			<string></string>
+			<string>begin</string>
 			<key>sp</key>
-			<string></string>
+			<string>began</string>
 			<key>pp</key>
-			<string></string>
+			<string>begun</string>
 			<key>prp</key>
-			<string></string>
+			<string>beginning</string>
 			<key>phin</key>
-			<string></string>
+			<string>/bɪ &apos;gɪn/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/bɪ &apos;gæn/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/bɪ &apos;gʌn/</string>
 			<key>s1</key>
-			<string></string>
+			<string>The future begins now.</string>
 			<key>s2</key>
-			<string></string>
+			<string>They say life began when simple chemicals built up into more complex chemicals.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Theorists have just begun to address these complex questions.</string>
 			<key>co</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>start; perform or undergo the first part of (an action or activity)</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>empezar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>commencer</string>
 			<key>trpt</key>
-			<string></string>
+			<string>iniciar</string>
 			<key>trge</key>
-			<string></string>
+			<string>beginnen</string>
 			<key>trru</key>
-			<string></string>
+			<string>начать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>börja</string>
 			<key>trit</key>
-			<string></string>
+			<string>iniziare</string>
 			<key>trin</key>
-			<string></string>
+			<string>mulai</string>
 			<key>trch</key>
-			<string></string>
+			<string>开始</string>
 			<key>trjp</key>
-			<string></string>
+			<string>始める</string>
 			<key>trko</key>
-			<string></string>
+			<string>시작되다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>beginnen</string>
 			<key>trno</key>
-			<string></string>
+			<string>begynne, byrja</string>
 		</dict>
 		<dict>
 			<key>id</key>
