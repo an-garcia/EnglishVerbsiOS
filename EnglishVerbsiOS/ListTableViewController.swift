@@ -67,4 +67,19 @@ class ListTableViewController: UIViewController, UITableViewDataSource, UITableV
         return cell
     }
     
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
+        // Get the selected adventure
+        let verb = verbData.verbForIndex(index: (indexPath as NSIndexPath).row)
+        
+        // Get a StoryNodeController from the Storyboard
+        let verbDetailsController = self.storyboard!.instantiateViewController(withIdentifier: "VerbDetailsViewController")as! VerbDetailsViewController
+        
+        // Set the story node so that we will see the start of the story
+        verbDetailsController.verb = verb
+        
+        // Push the new controller onto the stack
+        self.navigationController!.pushViewController(verbDetailsController, animated: true)
+    }
+    
 }

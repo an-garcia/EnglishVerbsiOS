@@ -67,10 +67,10 @@
             </objects>
             <point key="canvasLocation" x="117.59999999999999" y="118.29085457271366"/>
         </scene>
-        <!--View Controller-->
+        <!--Verb Details View Controller-->
         <scene sceneID="dc6-ix-BRC">
             <objects>
-                <viewController id="XjZ-dU-DQq" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="VerbDetailsViewController" id="XjZ-dU-DQq" customClass="VerbDetailsViewController" customModule="EnglishVerbsiOS" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="q6P-HQ-JZN">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
