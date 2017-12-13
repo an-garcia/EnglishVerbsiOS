@@ -18,6 +18,7 @@
 		828C343C1FE153790049CC2E /* verbs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 828C343B1FE153790049CC2E /* verbs.plist */; };
 		828C343F1FE16A8D0049CC2E /* Verb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C343E1FE16A8D0049CC2E /* Verb.swift */; };
 		828C34411FE172180049CC2E /* VerbData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34401FE172180049CC2E /* VerbData.swift */; };
+		828C34441FE177800049CC2E /* ListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34431FE177800049CC2E /* ListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		828C343B1FE153790049CC2E /* verbs.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = verbs.plist; sourceTree = "<group>"; };
 		828C343E1FE16A8D0049CC2E /* Verb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verb.swift; sourceTree = "<group>"; };
 		828C34401FE172180049CC2E /* VerbData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbData.swift; sourceTree = "<group>"; };
+		828C34431FE177800049CC2E /* ListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,9 +107,9 @@
 		828C34081FE14A650049CC2E /* EnglishVerbsiOS */ = {
 			isa = PBXGroup;
 			children = (
+				828C34421FE177310049CC2E /* View */,
 				828C343D1FE16A660049CC2E /* Model */,
 				828C34091FE14A650049CC2E /* AppDelegate.swift */,
-				828C340B1FE14A650049CC2E /* ViewController.swift */,
 				828C340D1FE14A650049CC2E /* Main.storyboard */,
 				828C34131FE14A650049CC2E /* Assets.xcassets */,
 				828C34151FE14A650049CC2E /* LaunchScreen.storyboard */,
@@ -152,6 +154,15 @@
 				828C34401FE172180049CC2E /* VerbData.swift */,
 			);
 			name = Model;
+			sourceTree = "<group>";
+		};
+		828C34421FE177310049CC2E /* View */ = {
+			isa = PBXGroup;
+			children = (
+				828C340B1FE14A650049CC2E /* ViewController.swift */,
+				828C34431FE177800049CC2E /* ListTableViewController.swift */,
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,6 +303,7 @@
 				828C343F1FE16A8D0049CC2E /* Verb.swift in Sources */,
 				828C340C1FE14A650049CC2E /* ViewController.swift in Sources */,
 				828C340A1FE14A650049CC2E /* AppDelegate.swift in Sources */,
+				828C34441FE177800049CC2E /* ListTableViewController.swift in Sources */,
 				828C34411FE172180049CC2E /* VerbData.swift in Sources */,
 				828C34121FE14A650049CC2E /* EnglishVerbsiOS.xcdatamodeld in Sources */,
 			);

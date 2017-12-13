@@ -16,14 +16,16 @@ class VerbData {
     
     // MARK: Initializer
     init(dictionary: [String : AnyObject]) {
+        
+        
         // Get the dictionary
-        let verbNodesDictionary = dictionary["verbs"] as! [String : AnyObject]
+        let verbNodesDictionary = dictionary["verbs"] as! [AnyObject]
         // Create the array
         verbs = [Verb]()
         
         // Add a Story Node for each item in storyNodesDictionary
-        for (key, dictionary): (String, AnyObject) in verbNodesDictionary {
-            verbs.append(contentsOf:Verb(dictionary: dictionary as! [String : AnyObject]))
+        for (dictionary): (AnyObject) in verbNodesDictionary {
+            verbs.append(Verb(dictionary: dictionary as! [String : AnyObject]))
         }
     }
     
@@ -33,7 +35,7 @@ class VerbData {
     }
     
     // The verb node that corresponds to the same index.
-    func storyNodeForIndex(index: Int) -> Verb {
+    func verbForIndex(index: Int) -> Verb {
         let verb = verbs[index]
         return verb
     }

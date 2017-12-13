@@ -1,9 +1,7 @@
 English Verbs
 =============
 
-![Scheme](/readmeImages/device-2017-03-11-172715x.png)
-![Scheme](/readmeImages/device-2017-03-11-172808x.png)
-![Scheme](/readmeImages/device-2017-03-11-172852x.png)
+![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2017-12-13at10.41.04.png)
 
 
 iOS application to learn english verb tenses.
