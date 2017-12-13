@@ -1,5 +1,5 @@
 //
-//  ListTableViewController.swift
+//  VerbListTableViewController.swift
 //  EnglishVerbsiOS
 //
 //  Created by xengar on 2017-12-13.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ListTableViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
+class VerbListTableViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     // MARK: Properties
     @IBOutlet weak var tableView: UITableView!
