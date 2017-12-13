@@ -414,233 +414,233 @@
 			<key>id</key>
 			<integer>7</integer>
 			<key>in</key>
-			<string></string>
+			<string>know</string>
 			<key>sp</key>
-			<string></string>
+			<string>knew</string>
 			<key>pp</key>
-			<string></string>
+			<string>known</string>
 			<key>prp</key>
-			<string></string>
+			<string>knowing</string>
 			<key>phin</key>
-			<string></string>
+			<string>/nou/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/nu:/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/noun/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I know your mother, but I’ve never met your father.</string>
 			<key>s2</key>
-			<string></string>
+			<string>She knew of our plan.</string>
 			<key>s3</key>
-			<string></string>
+			<string>Bivalved crustaceans little known to non professionals.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>be aware of through observation, inquiry, or information; be familiar or friendly with</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>saber</string>
 			<key>trfr</key>
-			<string></string>
+			<string>connaître</string>
 			<key>trpt</key>
-			<string></string>
+			<string>conhecer</string>
 			<key>trge</key>
-			<string></string>
+			<string>kennen</string>
 			<key>trru</key>
-			<string></string>
+			<string>знать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>veta</string>
 			<key>trit</key>
-			<string></string>
+			<string>conoscere</string>
 			<key>trin</key>
-			<string></string>
+			<string>tahu</string>
 			<key>trch</key>
-			<string></string>
+			<string>知道</string>
 			<key>trjp</key>
-			<string></string>
+			<string>知る、しる</string>
 			<key>trko</key>
-			<string></string>
+			<string>알다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>kennen</string>
 			<key>trno</key>
-			<string></string>
+			<string>vite</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>8</integer>
 			<key>in</key>
-			<string></string>
+			<string>take</string>
 			<key>sp</key>
-			<string></string>
+			<string>took</string>
 			<key>pp</key>
-			<string></string>
+			<string>taken</string>
 			<key>prp</key>
-			<string></string>
+			<string>taking</string>
 			<key>phin</key>
-			<string></string>
+			<string>/teɪk/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/tʊk/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/&apos;teɪkən/</string>
 			<key>s1</key>
-			<string></string>
+			<string>She leaned forward to take her hand.</string>
 			<key>s2</key>
-			<string></string>
+			<string>He took ten gold pieces from his table and wrapped them in the little letter.</string>
 			<key>s3</key>
-			<string></string>
+			<string>It was a picture taken at the party and the focus was on Carmen and Alex.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>lay hold of (something) with one&apos;s hands; reach for and hold; carry or bring with one; convey</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>tomar</string>
 			<key>trfr</key>
-			<string></string>
+			<string>prendre</string>
 			<key>trpt</key>
-			<string></string>
+			<string>levar</string>
 			<key>trge</key>
-			<string></string>
+			<string>nehmen</string>
 			<key>trru</key>
-			<string></string>
+			<string>принимать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>ta</string>
 			<key>trit</key>
-			<string></string>
+			<string>prendere</string>
 			<key>trin</key>
-			<string></string>
+			<string>mengambil</string>
 			<key>trch</key>
-			<string></string>
+			<string>采取</string>
 			<key>trjp</key>
-			<string></string>
+			<string>テイク</string>
 			<key>trko</key>
-			<string></string>
+			<string>가져가다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>nemen</string>
 			<key>trno</key>
-			<string></string>
+			<string>ta</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>9</integer>
 			<key>in</key>
-			<string></string>
+			<string>see</string>
 			<key>sp</key>
-			<string></string>
+			<string>saw</string>
 			<key>pp</key>
-			<string></string>
+			<string>seen</string>
 			<key>prp</key>
-			<string></string>
+			<string>seeing</string>
 			<key>phin</key>
-			<string></string>
+			<string>/si:/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/sɔ:/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/si:n/</string>
 			<key>s1</key>
-			<string></string>
+			<string>I can&apos;t see any other way to treat it.</string>
 			<key>s2</key>
-			<string></string>
+			<string>The wolf saw him.</string>
 			<key>s3</key>
-			<string></string>
+			<string>You should have seen Dad&apos;s face.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>perceive with the eyes; discern visually; discern or deduce mentally after reflection or from information; understand</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>ver</string>
 			<key>trfr</key>
-			<string></string>
+			<string>voir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>ver</string>
 			<key>trge</key>
-			<string></string>
+			<string>sehen</string>
 			<key>trru</key>
-			<string></string>
+			<string>видеть</string>
 			<key>trsw</key>
-			<string></string>
+			<string>se</string>
 			<key>trit</key>
-			<string></string>
+			<string>vedere</string>
 			<key>trin</key>
-			<string></string>
+			<string>melihat</string>
 			<key>trch</key>
-			<string></string>
+			<string>看到</string>
 			<key>trjp</key>
-			<string></string>
+			<string>見る</string>
 			<key>trko</key>
-			<string></string>
+			<string>보다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>zien</string>
 			<key>trno</key>
-			<string></string>
+			<string>se</string>
 		</dict>
 		<dict>
 			<key>id</key>
 			<integer>10</integer>
 			<key>in</key>
-			<string></string>
+			<string>come</string>
 			<key>sp</key>
-			<string></string>
+			<string>came</string>
 			<key>pp</key>
-			<string></string>
+			<string>come</string>
 			<key>prp</key>
-			<string></string>
+			<string>coming</string>
 			<key>phin</key>
-			<string></string>
+			<string>/kʌm/</string>
 			<key>phsp</key>
-			<string></string>
+			<string>/keɪm/</string>
 			<key>phpp</key>
-			<string></string>
+			<string>/kʌm/</string>
 			<key>s1</key>
-			<string></string>
+			<string>May we come in?</string>
 			<key>s2</key>
-			<string></string>
+			<string>Jessica came into the kitchen.</string>
 			<key>s3</key>
-			<string></string>
+			<string>&quot;The end of the world has come!&quot; cried some; and they ran about in the darkness.</string>
 			<key>co</key>
 			<integer>0</integer>
 			<key>re</key>
 			<integer>1</integer>
 			<key>de</key>
-			<string></string>
+			<string>move or travel toward or into a place thought of as near or familiar to the speaker</string>
 			<key>no</key>
 			<string></string>
 			<key>tres</key>
-			<string></string>
+			<string>venir</string>
 			<key>trfr</key>
-			<string></string>
+			<string>venir</string>
 			<key>trpt</key>
-			<string></string>
+			<string>vir</string>
 			<key>trge</key>
-			<string></string>
+			<string>kommen</string>
 			<key>trru</key>
-			<string></string>
+			<string>приехать</string>
 			<key>trsw</key>
-			<string></string>
+			<string>komma</string>
 			<key>trit</key>
-			<string></string>
+			<string>venire</string>
 			<key>trin</key>
-			<string></string>
+			<string>datang</string>
 			<key>trch</key>
-			<string></string>
+			<string>来</string>
 			<key>trjp</key>
-			<string></string>
+			<string>来る、くる</string>
 			<key>trko</key>
-			<string></string>
+			<string>오다</string>
 			<key>trdu</key>
-			<string></string>
+			<string>komen</string>
 			<key>trno</key>
-			<string></string>
+			<string>komme</string>
 		</dict>
 		<dict>
 			<key>id</key>
