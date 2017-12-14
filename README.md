@@ -9,13 +9,13 @@ iOS application to learn english verb tenses.
 
 
 Pre-requisites
---------------
+----------------
 - xCode 9.2 or higher
 - MAC machine
 
 
 References
-----------
+-------------
 - http://www.phonemicchart.com/transcribe/?w=called
 - http://www.macmillandictionary.com/us/dictionary/american/hiss_1?q=hissed
 - http://en.bab.la/conjugation/english/may
@@ -35,6 +35,19 @@ References
 - http://conjugator.reverso.net/conjugation-english-verb-revise.html
 
 
+TODO
+----------------
+- menu
+- Settings
+- play text. Like TextToSpeech
+- image
+- database
+- search
+- notifications
+- help
+- buy features (remove ads)
+- add ads
+- icons
 
 
 ## License

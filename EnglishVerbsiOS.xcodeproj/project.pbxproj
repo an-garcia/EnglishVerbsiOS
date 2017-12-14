@@ -109,7 +109,7 @@
 		828C34081FE14A650049CC2E /* EnglishVerbsiOS */ = {
 			isa = PBXGroup;
 			children = (
-				828C34421FE177310049CC2E /* View */,
+				828C34421FE177310049CC2E /* Controller */,
 				828C343D1FE16A660049CC2E /* Model */,
 				828C34091FE14A650049CC2E /* AppDelegate.swift */,
 				828C340D1FE14A650049CC2E /* Main.storyboard */,
@@ -158,14 +158,14 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
-		828C34421FE177310049CC2E /* View */ = {
+		828C34421FE177310049CC2E /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 				828C340B1FE14A650049CC2E /* ViewController.swift */,
 				828C34431FE177800049CC2E /* VerbListTableViewController.swift */,
 				828C34451FE19C3A0049CC2E /* VerbDetailsViewController.swift */,
 			);
-			name = View;
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -476,6 +476,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 567K2BW2V9;
 				INFOPLIST_FILE = EnglishVerbsiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xengar.ios.EnglishVerbs;
@@ -490,6 +491,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 567K2BW2V9;
 				INFOPLIST_FILE = EnglishVerbsiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xengar.ios.EnglishVerbs;
