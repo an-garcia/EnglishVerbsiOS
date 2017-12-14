@@ -8,7 +8,7 @@
 
 import Foundation
 
-// MARK: - Verb
+// MARK: - VerbData
 class VerbData {
 
     // MARK: Properties

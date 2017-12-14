@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		823183041FE2AC7A00BC8B23 /* Conjugation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823183031FE2AC7900BC8B23 /* Conjugation.swift */; };
 		828C340A1FE14A650049CC2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C34091FE14A650049CC2E /* AppDelegate.swift */; };
 		828C340C1FE14A650049CC2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828C340B1FE14A650049CC2E /* ViewController.swift */; };
 		828C340F1FE14A650049CC2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 828C340D1FE14A650049CC2E /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		823183031FE2AC7900BC8B23 /* Conjugation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conjugation.swift; sourceTree = "<group>"; };
 		828C34061FE14A650049CC2E /* EnglishVerbsiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnglishVerbsiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		828C34091FE14A650049CC2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		828C340B1FE14A650049CC2E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 			children = (
 				828C343E1FE16A8D0049CC2E /* Verb.swift */,
 				828C34401FE172180049CC2E /* VerbData.swift */,
+				823183031FE2AC7900BC8B23 /* Conjugation.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -308,6 +311,7 @@
 				828C340A1FE14A650049CC2E /* AppDelegate.swift in Sources */,
 				828C34461FE19C3A0049CC2E /* VerbDetailsViewController.swift in Sources */,
 				828C34441FE177800049CC2E /* VerbListTableViewController.swift in Sources */,
+				823183041FE2AC7A00BC8B23 /* Conjugation.swift in Sources */,
 				828C34411FE172180049CC2E /* VerbData.swift in Sources */,
 				828C34121FE14A650049CC2E /* EnglishVerbsiOS.xcdatamodeld in Sources */,
 			);
