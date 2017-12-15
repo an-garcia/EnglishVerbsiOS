@@ -18,6 +18,9 @@ class VerbDetailsViewController: UIViewController {
     @IBOutlet weak var infinitive : UILabel!
     @IBOutlet weak var simplePast : UILabel!
     @IBOutlet weak var pastParticiple : UILabel!
+    @IBOutlet weak var phoneticInfinitive : UILabel!
+    @IBOutlet weak var phoneticSimplePast : UILabel!
+    @IBOutlet weak var phoneticPastParticiple : UILabel!
     @IBOutlet weak var translation : UILabel!
     @IBOutlet weak var definition : UILabel!
     @IBOutlet weak var sample1 : UILabel!
@@ -132,6 +135,9 @@ class VerbDetailsViewController: UIViewController {
         infinitive.text = verb.infinitive
         simplePast.text = verb.simplePast
         pastParticiple.text = verb.pastParticiple
+        phoneticInfinitive.text = verb.phoneticInfinitive
+        phoneticSimplePast.text = verb.phoneticSimplePast
+        phoneticPastParticiple.text = verb.phoneticPastParticiple
         translation.text = verb.translationFR
         definition.text = verb.definition
         sample1.text = verb.sample1
@@ -142,7 +148,7 @@ class VerbDetailsViewController: UIViewController {
     // MARK: - Verb Conjugations
     
     private func processConjugation(_ verb : Verb) -> Conjugation {
-        var c : Conjugation = Conjugation()
+        let c : Conjugation = Conjugation()
         
         conjugateSimplePresent(c, verb.infinitive)
         conjugatePresentContinuous(c, verb.presentParticiple)
@@ -208,47 +214,135 @@ class VerbDetailsViewController: UIViewController {
     }
     
     private func conjugatePresentContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: https://www.englishclub.com/grammar/verb-tenses_present-continuous.htm
+        // subject + auxiliary verb be (simple present) + verb -ing (Present Participle)
+        c.presentContinuousI = "I am " + presentParticiple
+        c.presentContinuousYou = "you are " + presentParticiple
+        c.presentContinuousHe = "he/she/it is " + presentParticiple
+        c.presentContinuousWe = "we are " + presentParticiple
+        c.presentContinuousYoup = "you are " + presentParticiple
+        c.presentContinuousThey = "they are " + presentParticiple
     }
     
     private func conjugatePresentPerfect(_ c : Conjugation, _ pastParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/present-perfect/
+        // subject + auxiliary verb have (present tense) +  past participle of verb
+        c.presentPerfectI = "I have " + pastParticiple
+        c.presentPerfectYou = "you have " + pastParticiple
+        c.presentPerfectHe = "he/she/it has " + pastParticiple
+        c.presentPerfectWe = "we have " + pastParticiple
+        c.presentPerfectYoup = "you have " + pastParticiple
+        c.presentPerfectThey = "they have " + pastParticiple
     }
     
     private func conjugatePresentPerfectContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/present-perfect-continuous/
+        // subject + present perfect of the verb 'to be' (have/has been) + verb -ing (Present Participle)
+        c.presentPerfectContinuousI = "I have been " + presentParticiple
+        c.presentPerfectContinuousYou = "you have been " + presentParticiple
+        c.presentPerfectContinuousHe = "he/she/it has been " + presentParticiple
+        c.presentPerfectContinuousWe = "we have been " + presentParticiple
+        c.presentPerfectContinuousYoup = "you have been " + presentParticiple
+        c.presentPerfectContinuousThey = "they have been " + presentParticiple
     }
     
     private func conjugateSimplePast(_ c : Conjugation, _ simplePast : String) {
-        // TODO
+        // Rules: https://www.grammarly.com/blog/simple-past/
+        // subject + simple past of verb
+        if (simplePast.elementsEqual("was, were")) {
+            // exception for verb to be
+            c.simplePastI = "I was"
+            c.simplePastYou = "you were"
+            c.simplePastHe = "he/she/it was"
+            c.simplePastWe = "we were"
+            c.simplePastYoup = "you were"
+            c.simplePastThey = "they were"
+            
+        } else {
+            c.simplePastI = "I " + simplePast
+            c.simplePastYou = "you " + simplePast
+            c.simplePastHe = "he/she/it " + simplePast
+            c.simplePastWe = "we " + simplePast
+            c.simplePastYoup = "you " + simplePast
+            c.simplePastThey = "they " + simplePast
+        }
     }
     
     private func conjugatePastContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/past-continuous-tense/
+        // subject + past tense of the verb "to be" (was/were) + verb -ing (Present Participle)
+        c.pastContinuousI = "I was " + presentParticiple
+        c.pastContinuousYou = "you were " + presentParticiple
+        c.pastContinuousHe = "he/she/it was " + presentParticiple
+        c.pastContinuousWe = "we were " + presentParticiple
+        c.pastContinuousYoup = "you were " + presentParticiple
+        c.pastContinuousThey = "they were " + presentParticiple
     }
     
     private func conjugatePastPerfect(_ c : Conjugation, _ pastParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/past-perfect-tense/
+        // subject + past tense of the verb "to have" (had) + Past Participle
+        c.pastPerfectI = "I had " + pastParticiple
+        c.pastPerfectYou = "you had " + pastParticiple
+        c.pastPerfectHe = "he/she/it had " + pastParticiple
+        c.pastPerfectWe = "we had " + pastParticiple
+        c.pastPerfectYoup = "you had " + pastParticiple
+        c.pastPerfectThey = "they had " + pastParticiple
     }
     
     private func conjugatePastPerfectContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/past-perfect-continuous/
+        // subject + past perfect of the verb "to be" (had been) + verb -ing (Present Participle)
+        c.pastPerfectContinuousI = "I had been " + presentParticiple
+        c.pastPerfectContinuousYou = "you had been " + presentParticiple
+        c.pastPerfectContinuousHe = "he/she/it had been " + presentParticiple
+        c.pastPerfectContinuousWe = "we had been " + presentParticiple
+        c.pastPerfectContinuousYoup = "you had been " + presentParticiple
+        c.pastPerfectContinuousThey = "they had been " + presentParticiple
     }
     
     private func conjugateSimpleFuture(_ c : Conjugation, _ infinitive : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/simple-future-tense/
+        // subject + "will" or "shall" (less common) + infinitive of verb
+        c.simpleFutureI = "I will " + infinitive
+        c.simpleFutureYou = "you will " + infinitive
+        c.simpleFutureHe = "he/she/it will " + infinitive
+        c.simpleFutureWe = "we will " + infinitive
+        c.simpleFutureYoup = "you will " + infinitive
+        c.simpleFutureThey = "they will " + infinitive
     }
     
     private func conjugateFutureContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/future-continuous/
+        // subject + simple future of the verb "to be" (will be) + verb -ing (Present Participle)
+        c.futureContinuousI = "I will be " + presentParticiple
+        c.futureContinuousYou = "you will be " + presentParticiple
+        c.futureContinuousHe = "he/she/it will be " + presentParticiple
+        c.futureContinuousWe = "we will be " + presentParticiple
+        c.futureContinuousYoup = "you will be " + presentParticiple
+        c.futureContinuousThey = "they will be " + presentParticiple
     }
     
     private func conjugateFuturePerfect(_ c : Conjugation, _ pastParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/future-perfect/
+        // subject + future simple of the verb "to have" (will have) + Past Participle
+        c.futurePerfectI = "I will have " + pastParticiple
+        c.futurePerfectYou = "you will have " + pastParticiple
+        c.futurePerfectHe = "he/she/it will have " + pastParticiple
+        c.futurePerfectWe = "we will have " + pastParticiple
+        c.futurePerfectYoup = "you will have " + pastParticiple
+        c.futurePerfectThey = "they will have " + pastParticiple
     }
     
     private func conjugateFuturePerfectContinuous(_ c : Conjugation, _ presentParticiple : String) {
-        // TODO
+        // Rules: http://www.ef.com/english-resources/english-grammar/future-perfect-continuous/
+        // subject + future perfect of the verb "to be" (will have been) + verb -ing (Present Participle)
+        c.futurePerfectContinuousI = "I will have been " + presentParticiple
+        c.futurePerfectContinuousYou = "you will have been " + presentParticiple
+        c.futurePerfectContinuousHe = "he/she/it will have been " + presentParticiple
+        c.futurePerfectContinuousWe = "we will have been " + presentParticiple
+        c.futurePerfectContinuousYoup = "you will have been " + presentParticiple
+        c.futurePerfectContinuousThey = "they will have been " + presentParticiple
     }
     
     private func fillConjugationDetails(_ c : Conjugation) {
