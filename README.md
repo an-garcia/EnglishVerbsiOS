@@ -35,6 +35,8 @@ References
 - https://simple.wiktionary.org/wiki/picture
 - http://conjugator.reverso.net/conjugation-english-verb-revise.html
 
+- https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
+
 
 TODO
 ----------------
