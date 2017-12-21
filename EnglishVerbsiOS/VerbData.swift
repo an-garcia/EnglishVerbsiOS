@@ -17,7 +17,6 @@ class VerbData {
     // MARK: Initializer
     init(dictionary: [String : AnyObject]) {
         
-        
         // Get the dictionary
         let verbNodesDictionary = dictionary["verbs"] as! [AnyObject]
         // Create the array
