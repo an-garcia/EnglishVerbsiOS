@@ -1,5 +1,6 @@
 English Verbs
 =============
+[![Download on the App Store](http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/english-verbs/id1338262013?ls=1&mt=8)
 
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2017-12-21at13.14.28.png)
 ![Scheme](/readmeImages/SimulatorScreenShot-iPhone8Plus-2017-12-21at13.11.27.png)
